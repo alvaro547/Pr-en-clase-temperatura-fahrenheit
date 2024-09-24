@@ -29,4 +29,5 @@ except ValueError:
     # Manejar el caso en que la entrada no sea un número válido
     print("Por favor, ingrese un número válido.")
 
-    ![image](https://github.com/user-attachments/assets/490f5cc7-eca8-4330-aab4-a96545a73570)
+![image](https://github.com/user-attachments/assets/bc82dde2-6d86-4a61-b031-5f433ddc7694)
+
